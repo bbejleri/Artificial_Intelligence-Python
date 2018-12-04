@@ -12,6 +12,7 @@
 #8- Fully-connected layer with as many neurons as there are classes, activation function: Softmax
 
 #Hyperparameters:
+
 #Batch size: 128
 #Epochs: 3
 #Loss: Categorical Crossentropy
